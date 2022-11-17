@@ -1,5 +1,5 @@
 # Sitio Web Mine to Plan
-![Mine to Plan logo](https://raw.githubusercontent.com/ylyanini/Shiny-tRophicPosition/wp-content/uploads/2022/08/Entregable-Mine-TP-01.png)
+![Mine to Plan logo](./wp-content/uploads/2022/08/Entregable-Mine-TP-01.png)
 
 Código correspondiente a la renovacion de sitio web para Start Up Mine to Plan enfocada al desarrollo de soluciones mineras.
 ## Contacto
